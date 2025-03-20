@@ -1,4 +1,7 @@
-### study-of-basic-gates
+### Harini P
+### 212224230082
+
+### Experiment No-1  study of basic gates
 
 **AIM:** 
 
@@ -64,16 +67,21 @@ Y= A⊕B
 
 **PROGRAM**
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
-
- Developed by: RegisterNumber: 
+![DE-2](https://github.com/user-attachments/assets/051dcc1d-1945-417a-93f4-a917de8ece9e)
  
 **Logic symbol & Truthtable**
 
+![DE-4](https://github.com/user-attachments/assets/f5e129e2-51cd-431a-b581-b1ee89e8a559)
+
 **RTL realization Output:** 
+
+![DE-1](https://github.com/user-attachments/assets/55be6f84-fa96-43c6-8a7e-7849f5fdd5b2)
 
 **RTL**
 
+![DE-3](https://github.com/user-attachments/assets/99e717c8-9529-4869-8d96-77d7d058add0)
+
 **Result:**
 
+The truth tablecof the specified logic gates (AND, OR, NOT, NAND, NOR, XOR, XNOR) was successfully implemented and verified using Verilog programming in Quartus II.
 
